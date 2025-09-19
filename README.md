@@ -1,1 +1,8 @@
-# ProjetoFinalhtml5css3
+[criar-tarefa.html](https://github.com/user-attachments/files/22432878/criar-tarefa.html)
+[dashboard.html](https://github.com/user-attachments/files/22432879/dashboard.html)[confirmar-exclusao.html](https://github.com/user-attachments/files/22432887/confirmar-exclusao.html)
+[cadastro.html](https://github.com/user-attachments/files/22432885/cadastro.html)
+[tarefa-criada.html](https://github.com/user-attachments/files/22432884/tarefa-criada.html)
+[login.html](https://github.com/user-attachments/files/22432883/login.html)
+[estiloGlobais.css](https://github.com/user-attachments/files/22432882/estiloGlobais.css)
+[editar-tarefa.html](https://github.com/user-attachments/files/22432881/editar-tarefa.html)
+[detalhes-tarefa.html](https://github.com/user-attachments/files/22432880/detalhes-tarefa.html)
